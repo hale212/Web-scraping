@@ -1,2 +1,2 @@
 # Web-scraping
-Extract data by using web craping
+Extract data by using web scraping
